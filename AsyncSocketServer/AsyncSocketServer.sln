@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketServer", "AsyncSocketServer\AsyncSocketServer.csproj", "{27A00F99-D2CC-40BA-B6C1-628393137285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncSocketTCP", "AsyncSocketTCP\AsyncSocketTCP.csproj", "{8BF2074C-4BFE-44D4-AC3F-97263394F1B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A00F99-D2CC-40BA-B6C1-628393137285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A00F99-D2CC-40BA-B6C1-628393137285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A00F99-D2CC-40BA-B6C1-628393137285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A00F99-D2CC-40BA-B6C1-628393137285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BF2074C-4BFE-44D4-AC3F-97263394F1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BF2074C-4BFE-44D4-AC3F-97263394F1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BF2074C-4BFE-44D4-AC3F-97263394F1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BF2074C-4BFE-44D4-AC3F-97263394F1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60212F3A-69E9-41F6-955E-134E3039C3EA}
+	EndGlobalSection
+EndGlobal
